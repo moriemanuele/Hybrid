@@ -1,0 +1,19 @@
+Sono Hybrid_Beef_3_0, pid 91951
+tempo inizio trial numero 0: 2024/09/08 18:51:12
+Accuracy sul test set: 0.20
+Accuracy finale su training set: 0.20
+Accuracy finale su test set: 0.20
+val_score = 0.20000000298023224, time = 18.233741998672485
+tempo inizio trial numero 1: 2024/09/08 18:51:30
+Accuracy sul test set: 0.20
+Accuracy finale su training set: 0.10
+Accuracy finale su test set: 0.20
+val_score = 0.20000000298023224, time = 17.242563009262085
+tempo inizio trial numero 2: 2024/09/08 18:51:48
+Accuracy sul test set: 0.20
+Accuracy finale su training set: 0.17
+Accuracy finale su test set: 0.20
+val_score = 0.20000000298023224, time = 16.3132803440094
+--Hybrid on Beef--
+Results: MEAN 0.20000000298023224 STD 0.0
+----- required time: MEAN 17.263195117314655 STD 0.7841609123429703

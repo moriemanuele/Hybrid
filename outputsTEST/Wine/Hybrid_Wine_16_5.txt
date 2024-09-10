@@ -1,0 +1,19 @@
+Sono Hybrid_Wine_16_5, pid 114479
+tempo inizio trial numero 0: 2024/09/08 18:56:55
+Accuracy sul test set: 0.50
+Accuracy finale su training set: 0.53
+Accuracy finale su test set: 0.50
+val_score = 0.5, time = 116.79478335380554
+tempo inizio trial numero 1: 2024/09/08 18:58:52
+Accuracy sul test set: 0.50
+Accuracy finale su training set: 0.53
+Accuracy finale su test set: 0.50
+val_score = 0.5, time = 93.6869592666626
+tempo inizio trial numero 2: 2024/09/08 19:00:26
+Accuracy sul test set: 0.00
+Accuracy finale su training set: 0.00
+Accuracy finale su test set: 0.00
+val_score = 0.5, time = 108.69501090049744
+--Hybrid on Wine--
+Results: MEAN 0.5 STD 0.0
+----- required time: MEAN 106.3922511736552 STD 9.573223430668858

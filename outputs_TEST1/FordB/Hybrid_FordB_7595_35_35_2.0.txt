@@ -1,0 +1,6 @@
+Sono Hybrid_FordB_7595_35_35_2.0, pid 142407
+tempo inizio tentativo numero 0: 2024/08/01 06:49:30
+tempo inizio trial numero 0: 2024/08/01 06:49:30
+val_score = 0.9768999814987183, time = 5491.934062957764
+--- ACCURACY: MEAN = 0.9768999814987183, STD = 0.0
+--- TIME SPENT: MEAN = 5491.930943250656, STD = 0.0

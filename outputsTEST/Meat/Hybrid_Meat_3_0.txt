@@ -1,0 +1,7 @@
+Sono Hybrid_Meat_3_0, pid 126956
+tempo inizio trial numero 0: 2024/09/08 18:44:53
+Accuracy sul test set: 0.33
+Accuracy finale su training set: 0.23
+Accuracy finale su validation set: 0.33
+val_score = 0.3333333432674408, time = 283.0237259864807
+tempo inizio trial numero 1: 2024/09/08 18:49:36

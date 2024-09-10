@@ -1,0 +1,3 @@
+Sono Hybrid_FordA_2845_25_20_1, pid 96886
+tempo inizio tentativo numero 0: 2024/07/30 21:30:50
+tempo inizio trial numero 0: 2024/07/30 21:30:50

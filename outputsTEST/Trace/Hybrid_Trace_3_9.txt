@@ -1,0 +1,19 @@
+Sono Hybrid_Trace_3_9, pid 137754
+tempo inizio trial numero 0: 2024/09/08 19:22:03
+Accuracy sul test set: 0.19
+Accuracy finale su training set: 0.31
+Accuracy finale su test set: 0.19
+val_score = 0.1899999976158142, time = 91.2540352344513
+tempo inizio trial numero 1: 2024/09/08 19:23:35
+Accuracy sul test set: 0.19
+Accuracy finale su training set: 0.31
+Accuracy finale su test set: 0.19
+val_score = 0.1899999976158142, time = 96.13920831680298
+tempo inizio trial numero 2: 2024/09/08 19:25:11
+Accuracy sul test set: 0.19
+Accuracy finale su training set: 0.31
+Accuracy finale su test set: 0.19
+val_score = 0.1899999976158142, time = 94.2903938293457
+--Hybrid on Trace--
+Results: MEAN 0.1899999976158142 STD 0.0
+----- required time: MEAN 93.89454579353333 STD 2.013910087652997

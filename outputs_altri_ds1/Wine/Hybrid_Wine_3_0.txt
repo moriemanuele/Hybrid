@@ -1,0 +1,899 @@
+Sono Hybrid_Wine_3_0, pid 64970
+tempo inizio trial numero 0: 2024/08/28 16:25:07
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.53
+'best_units_m' : 5,
+'best_units_gru' : 30,
+'best_lr' : 0.01,
+'best_patience' : 12,
+'best_num_epochs' : 15,
+'best_batch_size' : 128,
+'best_batch_size_gru' : 256,
+'best_leaky': 0.01,
+"best_memory_scaling" : 0.5,
+"best_input_scaling" : 0.5,
+"best_bias_scaling" : 0.5,
+"best_spectral_radius" : 0.9,
+"best_leaky_m" : 1,
+"best_input_scaling_m" : 0.1,
+"best_spectral_radius_m" : 0.8,
+"best_bias_scaling_m" : 1.0,
+best_val_score = 0.5263158082962036
+best_time = 24.190880298614502 seconds
+tempo inizio trial numero 1: 2024/08/28 16:25:31
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 54.34710884094238
+tempo inizio trial numero 2: 2024/08/28 16:26:25
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 50.7040479183197
+tempo inizio trial numero 3: 2024/08/28 16:27:16
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 40.721617460250854
+tempo inizio trial numero 4: 2024/08/28 16:27:57
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 23.055133819580078
+tempo inizio trial numero 5: 2024/08/28 16:28:20
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 153.41611075401306
+tempo inizio trial numero 6: 2024/08/28 16:30:53
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 14.311263084411621
+tempo inizio trial numero 7: 2024/08/28 16:31:07
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 17.212592363357544
+tempo inizio trial numero 8: 2024/08/28 16:31:25
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 54.26329708099365
+tempo inizio trial numero 9: 2024/08/28 16:32:19
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 102.72744822502136
+tempo inizio trial numero 10: 2024/08/28 16:34:02
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 49.00666666030884
+tempo inizio trial numero 11: 2024/08/28 16:34:51
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 48.74404048919678
+tempo inizio trial numero 12: 2024/08/28 16:35:39
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.401193857192993
+tempo inizio trial numero 13: 2024/08/28 16:35:57
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 101.8884220123291
+tempo inizio trial numero 14: 2024/08/28 16:37:39
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 17.952613353729248
+tempo inizio trial numero 15: 2024/08/28 16:37:57
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 12.281634092330933
+tempo inizio trial numero 16: 2024/08/28 16:38:09
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 23.918500185012817
+tempo inizio trial numero 17: 2024/08/28 16:38:33
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 17.0733859539032
+tempo inizio trial numero 18: 2024/08/28 16:38:50
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 24.045674324035645
+tempo inizio trial numero 19: 2024/08/28 16:39:14
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 35.47400093078613
+tempo inizio trial numero 20: 2024/08/28 16:39:49
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 16.546679973602295
+tempo inizio trial numero 21: 2024/08/28 16:40:06
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 16.31011128425598
+tempo inizio trial numero 22: 2024/08/28 16:40:22
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 21.121111392974854
+tempo inizio trial numero 23: 2024/08/28 16:40:43
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 17.770711660385132
+tempo inizio trial numero 24: 2024/08/28 16:41:01
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 16.401000499725342
+tempo inizio trial numero 25: 2024/08/28 16:41:18
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.58
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 100.87406253814697
+tempo inizio trial numero 26: 2024/08/28 16:42:58
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 55.460519313812256
+tempo inizio trial numero 27: 2024/08/28 16:43:54
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 98.26234793663025
+tempo inizio trial numero 28: 2024/08/28 16:45:32
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 102.78427505493164
+tempo inizio trial numero 29: 2024/08/28 16:47:15
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 19.041322946548462
+tempo inizio trial numero 30: 2024/08/28 16:47:34
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 20.868430614471436
+tempo inizio trial numero 31: 2024/08/28 16:47:55
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 11.600196123123169
+tempo inizio trial numero 32: 2024/08/28 16:48:06
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 17.12293243408203
+tempo inizio trial numero 33: 2024/08/28 16:48:24
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 18.29143500328064
+tempo inizio trial numero 34: 2024/08/28 16:48:42
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 97.66950249671936
+tempo inizio trial numero 35: 2024/08/28 16:50:20
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 21.298990964889526
+tempo inizio trial numero 36: 2024/08/28 16:50:41
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 25.59777522087097
+tempo inizio trial numero 37: 2024/08/28 16:51:06
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 16.100375413894653
+tempo inizio trial numero 38: 2024/08/28 16:51:23
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 16.234339714050293
+tempo inizio trial numero 39: 2024/08/28 16:51:39
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 16.117955207824707
+tempo inizio trial numero 40: 2024/08/28 16:51:55
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 155.11522603034973
+tempo inizio trial numero 41: 2024/08/28 16:54:30
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 163.7909677028656
+tempo inizio trial numero 42: 2024/08/28 16:57:14
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 26.181191205978394
+tempo inizio trial numero 43: 2024/08/28 16:57:40
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 21.767035007476807
+tempo inizio trial numero 44: 2024/08/28 16:58:02
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 20.28649926185608
+tempo inizio trial numero 45: 2024/08/28 16:58:22
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 20.122337341308594
+tempo inizio trial numero 46: 2024/08/28 16:58:42
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 36.18710541725159
+tempo inizio trial numero 47: 2024/08/28 16:59:18
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 22.90221858024597
+tempo inizio trial numero 48: 2024/08/28 16:59:41
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 122.96648907661438
+tempo inizio trial numero 49: 2024/08/28 17:01:44
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 28.585115671157837
+tempo inizio trial numero 50: 2024/08/28 17:02:13
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 22.340104818344116
+tempo inizio trial numero 51: 2024/08/28 17:02:35
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 109.73184466362
+tempo inizio trial numero 52: 2024/08/28 17:04:25
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 16.08199119567871
+tempo inizio trial numero 53: 2024/08/28 17:04:41
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 112.15476703643799
+tempo inizio trial numero 54: 2024/08/28 17:06:33
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 18.729791402816772
+tempo inizio trial numero 55: 2024/08/28 17:06:52
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 19.85825204849243
+tempo inizio trial numero 56: 2024/08/28 17:07:12
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 18.542165994644165
+tempo inizio trial numero 57: 2024/08/28 17:07:30
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.58
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 113.44025993347168
+tempo inizio trial numero 58: 2024/08/28 17:09:24
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.550856113433838
+tempo inizio trial numero 59: 2024/08/28 17:09:41
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 156.98467588424683
+tempo inizio trial numero 60: 2024/08/28 17:12:18
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 116.15635251998901
+tempo inizio trial numero 61: 2024/08/28 17:14:14
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 51.2276496887207
+tempo inizio trial numero 62: 2024/08/28 17:15:06
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 106.80196523666382
+tempo inizio trial numero 63: 2024/08/28 17:16:52
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 51.741817235946655
+tempo inizio trial numero 64: 2024/08/28 17:17:44
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 24.332683563232422
+tempo inizio trial numero 65: 2024/08/28 17:18:09
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 20.692097425460815
+tempo inizio trial numero 66: 2024/08/28 17:18:29
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 18.028441429138184
+tempo inizio trial numero 67: 2024/08/28 17:18:47
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 20.133909463882446
+tempo inizio trial numero 68: 2024/08/28 17:19:07
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 23.97685742378235
+tempo inizio trial numero 69: 2024/08/28 17:19:31
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 48.94772529602051
+tempo inizio trial numero 70: 2024/08/28 17:20:20
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 21.520307779312134
+tempo inizio trial numero 71: 2024/08/28 17:20:42
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.142616510391235
+tempo inizio trial numero 72: 2024/08/28 17:20:59
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 33.104541301727295
+tempo inizio trial numero 73: 2024/08/28 17:21:32
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 17.742494106292725
+tempo inizio trial numero 74: 2024/08/28 17:21:50
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.799803256988525
+tempo inizio trial numero 75: 2024/08/28 17:22:08
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 37.2398886680603
+tempo inizio trial numero 76: 2024/08/28 17:22:45
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.956353664398193
+tempo inizio trial numero 77: 2024/08/28 17:23:03
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 22.324034214019775
+tempo inizio trial numero 78: 2024/08/28 17:23:25
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 56.72373843193054
+tempo inizio trial numero 79: 2024/08/28 17:24:22
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 103.94612455368042
+tempo inizio trial numero 80: 2024/08/28 17:26:06
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 21.199199199676514
+tempo inizio trial numero 81: 2024/08/28 17:26:27
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 54.93626165390015
+tempo inizio trial numero 82: 2024/08/28 17:27:22
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 27.90014386177063
+tempo inizio trial numero 83: 2024/08/28 17:27:50
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 28.801079034805298
+tempo inizio trial numero 84: 2024/08/28 17:28:19
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 24.440892934799194
+tempo inizio trial numero 85: 2024/08/28 17:28:43
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 18.35531711578369
+tempo inizio trial numero 86: 2024/08/28 17:29:01
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 53.70590615272522
+tempo inizio trial numero 87: 2024/08/28 17:29:55
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 19.159979581832886
+tempo inizio trial numero 88: 2024/08/28 17:30:14
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 102.78633880615234
+tempo inizio trial numero 89: 2024/08/28 17:31:57
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 56.71012806892395
+tempo inizio trial numero 90: 2024/08/28 17:32:54
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 19.252320289611816
+tempo inizio trial numero 91: 2024/08/28 17:33:13
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 30.334741353988647
+tempo inizio trial numero 92: 2024/08/28 17:33:43
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 94.75209259986877
+tempo inizio trial numero 93: 2024/08/28 17:35:18
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 50.20825171470642
+tempo inizio trial numero 94: 2024/08/28 17:36:08
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 98.24370837211609
+tempo inizio trial numero 95: 2024/08/28 17:37:47
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 18.08732843399048
+tempo inizio trial numero 96: 2024/08/28 17:38:05
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 158.68968629837036
+tempo inizio trial numero 97: 2024/08/28 17:40:43
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 36.96102857589722
+tempo inizio trial numero 98: 2024/08/28 17:41:20
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 11.230146408081055
+tempo inizio trial numero 99: 2024/08/28 17:41:32
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.731635570526123
+tempo inizio trial numero 100: 2024/08/28 17:41:49
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 13.772959470748901
+tempo inizio trial numero 101: 2024/08/28 17:42:03
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 87.15825390815735
+tempo inizio trial numero 102: 2024/08/28 17:43:30
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 21.126123428344727
+tempo inizio trial numero 103: 2024/08/28 17:43:51
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 98.49993014335632
+tempo inizio trial numero 104: 2024/08/28 17:45:30
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 101.11470103263855
+tempo inizio trial numero 105: 2024/08/28 17:47:11
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 100.79772138595581
+tempo inizio trial numero 106: 2024/08/28 17:48:52
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 15.040248394012451
+tempo inizio trial numero 107: 2024/08/28 17:49:07
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 101.62807321548462
+tempo inizio trial numero 108: 2024/08/28 17:50:48
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 15.745514392852783
+tempo inizio trial numero 109: 2024/08/28 17:51:04
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 22.950366258621216
+tempo inizio trial numero 110: 2024/08/28 17:51:27
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 24.511473894119263
+tempo inizio trial numero 111: 2024/08/28 17:51:52
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 56.601563453674316
+tempo inizio trial numero 112: 2024/08/28 17:52:48
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 20.98750615119934
+tempo inizio trial numero 113: 2024/08/28 17:53:09
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 18.139999866485596
+tempo inizio trial numero 114: 2024/08/28 17:53:27
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 24.013898849487305
+tempo inizio trial numero 115: 2024/08/28 17:53:51
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 26.212149620056152
+tempo inizio trial numero 116: 2024/08/28 17:54:18
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 27.84456992149353
+tempo inizio trial numero 117: 2024/08/28 17:54:45
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.22579598426819
+tempo inizio trial numero 118: 2024/08/28 17:55:03
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 55.67286252975464
+tempo inizio trial numero 119: 2024/08/28 17:55:58
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 23.58034920692444
+tempo inizio trial numero 120: 2024/08/28 17:56:22
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 104.20118927955627
+tempo inizio trial numero 121: 2024/08/28 17:58:06
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 162.02254819869995
+tempo inizio trial numero 122: 2024/08/28 18:00:48
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 109.07635259628296
+tempo inizio trial numero 123: 2024/08/28 18:02:37
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 98.25364232063293
+tempo inizio trial numero 124: 2024/08/28 18:04:15
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 10.858693599700928
+tempo inizio trial numero 125: 2024/08/28 18:04:26
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 17.656477212905884
+tempo inizio trial numero 126: 2024/08/28 18:04:44
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 20.650566577911377
+tempo inizio trial numero 127: 2024/08/28 18:05:05
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 17.265624046325684
+tempo inizio trial numero 128: 2024/08/28 18:05:22
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 78.89264822006226
+tempo inizio trial numero 129: 2024/08/28 18:06:41
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 63.7518105506897
+tempo inizio trial numero 130: 2024/08/28 18:07:45
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 23.141988515853882
+tempo inizio trial numero 131: 2024/08/28 18:08:08
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 29.81840991973877
+tempo inizio trial numero 132: 2024/08/28 18:08:38
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 52.09850192070007
+tempo inizio trial numero 133: 2024/08/28 18:09:30
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 98.02069115638733
+tempo inizio trial numero 134: 2024/08/28 18:11:08
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 18.811822652816772
+tempo inizio trial numero 135: 2024/08/28 18:11:26
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 58.24617028236389
+tempo inizio trial numero 136: 2024/08/28 18:12:25
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 18.92929434776306
+tempo inizio trial numero 137: 2024/08/28 18:12:44
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 158.88061714172363
+tempo inizio trial numero 138: 2024/08/28 18:15:23
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 26.745081663131714
+tempo inizio trial numero 139: 2024/08/28 18:15:49
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 108.93493723869324
+tempo inizio trial numero 140: 2024/08/28 18:17:38
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 61.96571683883667
+tempo inizio trial numero 141: 2024/08/28 18:18:40
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 157.55141472816467
+tempo inizio trial numero 142: 2024/08/28 18:21:18
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 28.369144439697266
+tempo inizio trial numero 143: 2024/08/28 18:21:46
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 21.8731210231781
+tempo inizio trial numero 144: 2024/08/28 18:22:08
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 108.28520488739014
+tempo inizio trial numero 145: 2024/08/28 18:23:56
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 52.35764694213867
+tempo inizio trial numero 146: 2024/08/28 18:24:49
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 25.116426467895508
+tempo inizio trial numero 147: 2024/08/28 18:25:14
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 20.47733497619629
+tempo inizio trial numero 148: 2024/08/28 18:25:34
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 57.568599224090576
+tempo inizio trial numero 149: 2024/08/28 18:26:32
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 24.41004705429077
+tempo inizio trial numero 150: 2024/08/28 18:26:56
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 94.63401913642883
+tempo inizio trial numero 151: 2024/08/28 18:28:31
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 24.891732454299927
+tempo inizio trial numero 152: 2024/08/28 18:28:56
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 18.8500018119812
+tempo inizio trial numero 153: 2024/08/28 18:29:15
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 105.83164238929749
+tempo inizio trial numero 154: 2024/08/28 18:31:00
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 31.731515407562256
+tempo inizio trial numero 155: 2024/08/28 18:31:32
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 19.758649826049805
+tempo inizio trial numero 156: 2024/08/28 18:31:52
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 22.098649501800537
+tempo inizio trial numero 157: 2024/08/28 18:32:14
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 69.18522572517395
+tempo inizio trial numero 158: 2024/08/28 18:33:23
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 114.5014111995697
+tempo inizio trial numero 159: 2024/08/28 18:35:18
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 43.759947538375854
+tempo inizio trial numero 160: 2024/08/28 18:36:01
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 86.74270153045654
+tempo inizio trial numero 161: 2024/08/28 18:37:28
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 20.660542011260986
+tempo inizio trial numero 162: 2024/08/28 18:37:49
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 25.91302490234375
+tempo inizio trial numero 163: 2024/08/28 18:38:15
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 26.79803228378296
+tempo inizio trial numero 164: 2024/08/28 18:38:42
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 57.42222309112549
+tempo inizio trial numero 165: 2024/08/28 18:39:39
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 26.97024440765381
+tempo inizio trial numero 166: 2024/08/28 18:40:06
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 99.58920359611511
+tempo inizio trial numero 167: 2024/08/28 18:41:46
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 57.89323806762695
+tempo inizio trial numero 168: 2024/08/28 18:42:43
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.4736842215061188, time = 19.671142101287842
+tempo inizio trial numero 169: 2024/08/28 18:43:03
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 16.38943886756897
+tempo inizio trial numero 170: 2024/08/28 18:43:19
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 112.13857078552246
+tempo inizio trial numero 171: 2024/08/28 18:45:12
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 104.44952893257141
+tempo inizio trial numero 172: 2024/08/28 18:46:56
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 169.4442036151886
+tempo inizio trial numero 173: 2024/08/28 18:49:46
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.5263158082962036, time = 54.91119146347046
+tempo inizio trial numero 174: 2024/08/28 18:50:40
+Accuracy sul validation set: 0.47
+Accuracy finale su training set: 0.47
+Accuracy finale su validation set: 0.47
+val_score = 0.5263158082962036, time = 22.391791820526123
+tempo inizio trial numero 175: 2024/08/28 18:51:03
+Accuracy sul validation set: 0.53
+Accuracy finale su training set: 0.53
+Accuracy finale su validation set: 0.53
+val_score = 0.4736842215061188, time = 30.83635687828064
+tempo inizio trial numero 176: 2024/08/28 18:51:34

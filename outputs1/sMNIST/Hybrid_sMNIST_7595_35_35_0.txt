@@ -1,0 +1,25 @@
+Sono Hybrid_sMNIST_7595_35_35_0, pid 135827
+tempo inizio trial numero 0: 2024/07/26 04:34:59
+best_units_m = 35
+best_units_gru = 35
+best_lr = 1e-05
+best_patience = 50
+best_num_epochs = 100
+best_batch_size = 128
+best_batch_size_gru = 256
+best_leaky = 0.1
+best_memory_scaling = 1.0
+best_input_scaling = 0.5
+best_bias_scaling = 0.5
+best_spectral_radius = 1.0
+best_leaky_m = 0.1
+best_input_scaling_m = 1.0
+best_spectral_radius_m = 1.0
+best_bias_scaling_m = 1.0
+best_val_score = 0.3855050504207611
+best_time = 5779.126945018768 seconds
+tempo inizio trial numero 1: 2024/07/26 06:11:18
+val_score = 0.09873737394809723, time = 4851.058417081833
+tempo inizio trial numero 2: 2024/07/26 07:32:09
+val_score = 0.11732323467731476, time = 5772.427086830139
+tempo inizio trial numero 3: 2024/07/26 09:08:21

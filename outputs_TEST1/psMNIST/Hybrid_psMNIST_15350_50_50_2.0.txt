@@ -1,0 +1,6 @@
+Sono Hybrid_psMNIST_15350_50_50_2.0, pid 37081
+tempo inizio tentativo numero 0: 2024/08/01 10:25:25
+tempo inizio trial numero 0: 2024/08/01 10:25:25
+val_score = 0.8734999895095825, time = 5165.056901931763
+--- ACCURACY: MEAN = 0.8734999895095825, STD = 0.0
+--- TIME SPENT: MEAN = 5165.0538964271545, STD = 0.0

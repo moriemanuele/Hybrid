@@ -1,0 +1,162 @@
+Sono Hybrid_Trace_8_4, pid 103116
+tempo inizio trial numero 0: 2024/08/29 17:41:38
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+'best_units_m' : 35,
+'best_units_gru' : 35,
+'best_lr' : 0.0001,
+'best_patience' : 150,
+'best_num_epochs' : 200,
+'best_batch_size' : 128,
+'best_batch_size_gru' : 4,
+'best_leaky': 0.1,
+"best_memory_scaling" : 1.0,
+"best_input_scaling" : 0.5,
+"best_bias_scaling" : 0.1,
+"best_spectral_radius" : 0.8,
+"best_leaky_m" : 0.01,
+"best_input_scaling_m" : 0.5,
+"best_spectral_radius_m" : 0.8,
+"best_bias_scaling_m" : 1.0,
+best_val_score = 0.3030303120613098
+best_time = 48.694374322891235 seconds
+tempo inizio trial numero 1: 2024/08/29 17:42:26
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 6.576966047286987
+tempo inizio trial numero 2: 2024/08/29 17:42:33
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.21212121844291687, time = 9.160597562789917
+tempo inizio trial numero 3: 2024/08/29 17:42:42
+Accuracy sul validation set: 0.27
+Accuracy finale su training set: 0.25
+Accuracy finale su validation set: 0.27
+val_score = 0.27272728085517883, time = 36.437217712402344
+tempo inizio trial numero 4: 2024/08/29 17:43:19
+Accuracy sul validation set: 0.27
+Accuracy finale su training set: 0.34
+Accuracy finale su validation set: 0.27
+val_score = 0.3030303120613098, time = 7.807007074356079
+tempo inizio trial numero 5: 2024/08/29 17:43:26
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.27272728085517883, time = 40.380080461502075
+tempo inizio trial numero 6: 2024/08/29 17:44:07
+Accuracy sul validation set: 0.27
+Accuracy finale su training set: 0.25
+Accuracy finale su validation set: 0.27
+val_score = 0.3030303120613098, time = 39.45249843597412
+tempo inizio trial numero 7: 2024/08/29 17:44:46
+Accuracy sul validation set: 0.27
+Accuracy finale su training set: 0.25
+Accuracy finale su validation set: 0.27
+val_score = 0.27272728085517883, time = 7.141734838485718
+tempo inizio trial numero 8: 2024/08/29 17:44:53
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 23.413392543792725
+tempo inizio trial numero 9: 2024/08/29 17:45:17
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 7.699185609817505
+tempo inizio trial numero 10: 2024/08/29 17:45:25
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 8.128035068511963
+tempo inizio trial numero 11: 2024/08/29 17:45:33
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 109.87647914886475
+tempo inizio trial numero 12: 2024/08/29 17:47:23
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 10.293517351150513
+tempo inizio trial numero 13: 2024/08/29 17:47:33
+Accuracy sul validation set: 0.00
+Accuracy finale su training set: 0.00
+Accuracy finale su validation set: 0.00
+val_score = 0.21212121844291687, time = 8.511824607849121
+tempo inizio trial numero 14: 2024/08/29 17:47:41
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 8.251662254333496
+tempo inizio trial numero 15: 2024/08/29 17:47:50
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 9.317193269729614
+tempo inizio trial numero 16: 2024/08/29 17:47:59
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.24
+Accuracy finale su validation set: 0.30
+val_score = 0.27272728085517883, time = 6.604353427886963
+tempo inizio trial numero 17: 2024/08/29 17:48:06
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 11.937146425247192
+tempo inizio trial numero 18: 2024/08/29 17:48:17
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.27
+Accuracy finale su validation set: 0.30
+val_score = 0.27272728085517883, time = 5.754711389541626
+tempo inizio trial numero 19: 2024/08/29 17:48:23
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 46.58983254432678
+tempo inizio trial numero 20: 2024/08/29 17:49:10
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 7.850332260131836
+tempo inizio trial numero 21: 2024/08/29 17:49:18
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.27272728085517883, time = 6.469405651092529
+tempo inizio trial numero 22: 2024/08/29 17:49:24
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 7.175409555435181
+tempo inizio trial numero 23: 2024/08/29 17:49:31
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 6.766258955001831
+tempo inizio trial numero 24: 2024/08/29 17:49:38
+Accuracy sul validation set: 0.30
+Accuracy finale su training set: 0.31
+Accuracy finale su validation set: 0.30
+val_score = 0.3030303120613098, time = 26.355902910232544
+Model selection completed
+best_units_m = 35
+best_units_gru = 35
+best_lr = 0.0001
+best_patience = 150
+best_num_epochs = 200
+best_batch_size = 128
+best_batch_size_gru = 4
+best_leaky = 0.1
+best_memory_scaling = 1.0
+best_input_scaling = 0.5
+best_bias_scaling = 0.1
+best_spectral_radius = 0.8
+best_leaky_m = 0.01
+best_input_scaling_m = 0.5
+best_spectral_radius_m = 0.8
+best_bias_scaling_m = 1.0
+best_val_score = 0.3030303120613098
+best_time = 48.694374322891235

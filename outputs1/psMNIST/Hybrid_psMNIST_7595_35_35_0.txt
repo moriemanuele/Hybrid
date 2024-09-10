@@ -1,0 +1,37 @@
+Sono Hybrid_psMNIST_7595_35_35_0, pid 133946
+tempo inizio trial numero 0: 2024/07/26 04:34:02
+best_units_m = 35
+best_units_gru = 35
+best_lr = 0.01
+best_patience = 7
+best_num_epochs = 10
+best_batch_size = 128
+best_batch_size_gru = 128
+best_leaky = 1
+best_memory_scaling = 0.1
+best_input_scaling = 0.1
+best_bias_scaling = 0.5
+best_spectral_radius = 1.0
+best_leaky_m = 0.1
+best_input_scaling_m = 0.1
+best_spectral_radius_m = 0.8
+best_bias_scaling_m = 1.0
+best_val_score = 0.7676767706871033
+best_time = 2850.140386581421 seconds
+tempo inizio trial numero 1: 2024/07/26 05:21:32
+val_score = 0.4942929148674011, time = 3845.512038230896
+tempo inizio trial numero 2: 2024/07/26 06:25:37
+val_score = 0.42328283190727234, time = 2740.624324798584
+tempo inizio trial numero 3: 2024/07/26 07:11:18
+val_score = 0.16641414165496826, time = 2898.9028964042664
+tempo inizio trial numero 4: 2024/07/26 07:59:37
+val_score = 0.10429292917251587, time = 2765.2147986888885
+tempo inizio trial numero 5: 2024/07/26 08:45:42
+val_score = 0.7260606288909912, time = 2849.176362991333
+tempo inizio trial numero 6: 2024/07/26 09:33:11
+val_score = 0.32459595799446106, time = 3538.5390768051147
+tempo inizio trial numero 7: 2024/07/26 10:32:10
+val_score = 0.16388888657093048, time = 2855.8853509426117
+tempo inizio trial numero 8: 2024/07/26 11:19:46
+val_score = 0.0940404012799263, time = 2766.4395201206207
+tempo inizio trial numero 9: 2024/07/26 12:05:52

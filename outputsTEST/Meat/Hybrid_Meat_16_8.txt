@@ -1,0 +1,19 @@
+Sono Hybrid_Meat_16_8, pid 124520
+tempo inizio trial numero 0: 2024/09/08 19:20:54
+Accuracy sul test set: 0.33
+Accuracy finale su training set: 0.33
+Accuracy finale su test set: 0.33
+val_score = 0.3333333432674408, time = 21.35443663597107
+tempo inizio trial numero 1: 2024/09/08 19:21:16
+Accuracy sul test set: 0.33
+Accuracy finale su training set: 0.33
+Accuracy finale su test set: 0.33
+val_score = 0.3333333432674408, time = 19.51274800300598
+tempo inizio trial numero 2: 2024/09/08 19:21:35
+Accuracy sul test set: 0.33
+Accuracy finale su training set: 0.33
+Accuracy finale su test set: 0.33
+val_score = 0.3333333432674408, time = 18.54461145401001
+--Hybrid on Meat--
+Results: MEAN 0.3333333432674408 STD 0.0
+----- required time: MEAN 19.803932030995686 STD 1.1654385417552362

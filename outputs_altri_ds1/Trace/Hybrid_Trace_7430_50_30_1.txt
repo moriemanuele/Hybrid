@@ -1,0 +1,537 @@
+Sono Hybrid_Trace_7430_50_30_1, pid 96058
+tempo inizio trial numero 0: 2024/08/20 19:38:39
+best_units_m = 50
+best_units_gru = 30
+best_lr = 0.1
+best_patience = 20
+best_num_epochs = 50
+best_batch_size = 128
+best_batch_size_gru = 128
+best_leaky = 0.1
+best_memory_scaling = 0.5
+best_input_scaling = 1.0
+best_bias_scaling = 1.0
+best_spectral_radius = 1.0
+best_leaky_m = 0.1
+best_input_scaling_m = 0.1
+best_spectral_radius_m = 1.0
+best_bias_scaling_m = 1.0
+best_val_score = 0.3030303120613098
+best_time = 13.292245149612427 seconds
+tempo inizio trial numero 1: 2024/08/20 19:38:52
+val_score = 0.3030303120613098, time = 18.665053367614746
+tempo inizio trial numero 2: 2024/08/20 19:39:11
+val_score = 0.3030303120613098, time = 18.22492265701294
+tempo inizio trial numero 3: 2024/08/20 19:39:29
+val_score = 0.21212121844291687, time = 10.860946655273438
+tempo inizio trial numero 4: 2024/08/20 19:39:40
+val_score = 0.3030303120613098, time = 9.940155506134033
+tempo inizio trial numero 5: 2024/08/20 19:39:50
+val_score = 0.3030303120613098, time = 9.227034330368042
+tempo inizio trial numero 6: 2024/08/20 19:39:59
+val_score = 0.27272728085517883, time = 11.360287189483643
+tempo inizio trial numero 7: 2024/08/20 19:40:10
+val_score = 0.3030303120613098, time = 10.206649780273438
+tempo inizio trial numero 8: 2024/08/20 19:40:20
+val_score = 0.3030303120613098, time = 11.190599918365479
+tempo inizio trial numero 9: 2024/08/20 19:40:32
+val_score = 0.3030303120613098, time = 13.642102003097534
+tempo inizio trial numero 10: 2024/08/20 19:40:45
+val_score = 0.3030303120613098, time = 11.412974119186401
+tempo inizio trial numero 11: 2024/08/20 19:40:57
+val_score = 0.3030303120613098, time = 9.818233728408813
+tempo inizio trial numero 12: 2024/08/20 19:41:06
+val_score = 0.21212121844291687, time = 9.351457595825195
+tempo inizio trial numero 13: 2024/08/20 19:41:16
+val_score = 0.3030303120613098, time = 9.931746244430542
+tempo inizio trial numero 14: 2024/08/20 19:41:26
+val_score = 0.3030303120613098, time = 18.439533948898315
+tempo inizio trial numero 15: 2024/08/20 19:41:44
+val_score = 0.3030303120613098, time = 14.24935507774353
+tempo inizio trial numero 16: 2024/08/20 19:41:58
+val_score = 0.21212121844291687, time = 9.20989465713501
+tempo inizio trial numero 17: 2024/08/20 19:42:08
+val_score = 0.3030303120613098, time = 18.63906502723694
+tempo inizio trial numero 18: 2024/08/20 19:42:26
+val_score = 0.3030303120613098, time = 11.350634813308716
+tempo inizio trial numero 19: 2024/08/20 19:42:38
+val_score = 0.3030303120613098, time = 13.907368898391724
+tempo inizio trial numero 20: 2024/08/20 19:42:52
+val_score = 0.3030303120613098, time = 10.41941213607788
+tempo inizio trial numero 21: 2024/08/20 19:43:02
+val_score = 0.3030303120613098, time = 10.065394878387451
+tempo inizio trial numero 22: 2024/08/20 19:43:12
+val_score = 0.3030303120613098, time = 14.280052900314331
+tempo inizio trial numero 23: 2024/08/20 19:43:26
+val_score = 0.27272728085517883, time = 13.448004245758057
+tempo inizio trial numero 24: 2024/08/20 19:43:40
+val_score = 0.3030303120613098, time = 19.024770259857178
+tempo inizio trial numero 25: 2024/08/20 19:43:59
+val_score = 0.3030303120613098, time = 11.312406063079834
+tempo inizio trial numero 26: 2024/08/20 19:44:10
+val_score = 0.3030303120613098, time = 10.635077238082886
+tempo inizio trial numero 27: 2024/08/20 19:44:21
+val_score = 0.3030303120613098, time = 18.614839553833008
+tempo inizio trial numero 28: 2024/08/20 19:44:39
+val_score = 0.21212121844291687, time = 10.078857898712158
+tempo inizio trial numero 29: 2024/08/20 19:44:49
+val_score = 0.21212121844291687, time = 9.174377918243408
+tempo inizio trial numero 30: 2024/08/20 19:44:59
+val_score = 0.3030303120613098, time = 11.244898557662964
+tempo inizio trial numero 31: 2024/08/20 19:45:10
+val_score = 0.3030303120613098, time = 18.44863724708557
+tempo inizio trial numero 32: 2024/08/20 19:45:28
+val_score = 0.3030303120613098, time = 9.16865587234497
+tempo inizio trial numero 33: 2024/08/20 19:45:37
+val_score = 0.3030303120613098, time = 10.86341404914856
+tempo inizio trial numero 34: 2024/08/20 19:45:48
+val_score = 0.3030303120613098, time = 19.312873601913452
+tempo inizio trial numero 35: 2024/08/20 19:46:08
+val_score = 0.3030303120613098, time = 10.27467942237854
+tempo inizio trial numero 36: 2024/08/20 19:46:18
+val_score = 0.3030303120613098, time = 9.17943549156189
+tempo inizio trial numero 37: 2024/08/20 19:46:27
+val_score = 0.27272728085517883, time = 9.312927007675171
+tempo inizio trial numero 38: 2024/08/20 19:46:36
+val_score = 0.3030303120613098, time = 18.553080320358276
+tempo inizio trial numero 39: 2024/08/20 19:46:55
+val_score = 0.3030303120613098, time = 18.269988775253296
+tempo inizio trial numero 40: 2024/08/20 19:47:13
+val_score = 0.3030303120613098, time = 9.701443433761597
+tempo inizio trial numero 41: 2024/08/20 19:47:23
+val_score = 0.21212121844291687, time = 9.224560022354126
+tempo inizio trial numero 42: 2024/08/20 19:47:32
+val_score = 0.27272728085517883, time = 10.90039587020874
+tempo inizio trial numero 43: 2024/08/20 19:47:43
+val_score = 0.3030303120613098, time = 13.61157774925232
+tempo inizio trial numero 44: 2024/08/20 19:47:57
+val_score = 0.3030303120613098, time = 11.484779834747314
+tempo inizio trial numero 45: 2024/08/20 19:48:08
+val_score = 0.3030303120613098, time = 9.182331800460815
+tempo inizio trial numero 46: 2024/08/20 19:48:17
+val_score = 0.21212121844291687, time = 18.599859952926636
+tempo inizio trial numero 47: 2024/08/20 19:48:36
+val_score = 0.3030303120613098, time = 11.452035427093506
+tempo inizio trial numero 48: 2024/08/20 19:48:47
+val_score = 0.3030303120613098, time = 9.584381341934204
+tempo inizio trial numero 49: 2024/08/20 19:48:57
+val_score = 0.3030303120613098, time = 11.103580474853516
+tempo inizio trial numero 50: 2024/08/20 19:49:08
+val_score = 0.27272728085517883, time = 10.864509582519531
+tempo inizio trial numero 51: 2024/08/20 19:49:19
+val_score = 0.3030303120613098, time = 13.268234491348267
+tempo inizio trial numero 52: 2024/08/20 19:49:32
+val_score = 0.27272728085517883, time = 14.626513481140137
+tempo inizio trial numero 53: 2024/08/20 19:49:47
+val_score = 0.21212121844291687, time = 17.833003282546997
+tempo inizio trial numero 54: 2024/08/20 19:50:05
+val_score = 0.3030303120613098, time = 11.160759210586548
+tempo inizio trial numero 55: 2024/08/20 19:50:16
+val_score = 0.21212121844291687, time = 9.379567384719849
+tempo inizio trial numero 56: 2024/08/20 19:50:25
+val_score = 0.27272728085517883, time = 9.867308616638184
+tempo inizio trial numero 57: 2024/08/20 19:50:35
+val_score = 0.3030303120613098, time = 18.393753051757812
+tempo inizio trial numero 58: 2024/08/20 19:50:53
+val_score = 0.3030303120613098, time = 13.576861381530762
+tempo inizio trial numero 59: 2024/08/20 19:51:07
+val_score = 0.3030303120613098, time = 8.96710753440857
+tempo inizio trial numero 60: 2024/08/20 19:51:16
+val_score = 0.3030303120613098, time = 16.521915197372437
+tempo inizio trial numero 61: 2024/08/20 19:51:33
+val_score = 0.3030303120613098, time = 8.984031677246094
+tempo inizio trial numero 62: 2024/08/20 19:51:41
+val_score = 0.3030303120613098, time = 11.243841648101807
+tempo inizio trial numero 63: 2024/08/20 19:51:53
+val_score = 0.3030303120613098, time = 12.929547786712646
+tempo inizio trial numero 64: 2024/08/20 19:52:06
+val_score = 0.3030303120613098, time = 14.42444634437561
+tempo inizio trial numero 65: 2024/08/20 19:52:20
+val_score = 0.3030303120613098, time = 8.949990272521973
+tempo inizio trial numero 66: 2024/08/20 19:52:29
+val_score = 0.27272728085517883, time = 11.083669662475586
+tempo inizio trial numero 67: 2024/08/20 19:52:40
+val_score = 0.27272728085517883, time = 11.12564468383789
+tempo inizio trial numero 68: 2024/08/20 19:52:51
+val_score = 0.3030303120613098, time = 18.422119617462158
+tempo inizio trial numero 69: 2024/08/20 19:53:10
+val_score = 0.3030303120613098, time = 11.137332439422607
+tempo inizio trial numero 70: 2024/08/20 19:53:21
+val_score = 0.3030303120613098, time = 10.114882230758667
+tempo inizio trial numero 71: 2024/08/20 19:53:31
+val_score = 0.3030303120613098, time = 11.041511297225952
+tempo inizio trial numero 72: 2024/08/20 19:53:42
+val_score = 0.3030303120613098, time = 18.191072463989258
+tempo inizio trial numero 73: 2024/08/20 19:54:00
+val_score = 0.3030303120613098, time = 9.08444356918335
+tempo inizio trial numero 74: 2024/08/20 19:54:09
+val_score = 0.3030303120613098, time = 9.30057978630066
+tempo inizio trial numero 75: 2024/08/20 19:54:19
+val_score = 0.3030303120613098, time = 11.054576873779297
+tempo inizio trial numero 76: 2024/08/20 19:54:30
+val_score = 0.3030303120613098, time = 9.882209777832031
+tempo inizio trial numero 77: 2024/08/20 19:54:39
+val_score = 0.21212121844291687, time = 9.29464864730835
+tempo inizio trial numero 78: 2024/08/20 19:54:49
+val_score = 0.3030303120613098, time = 13.012224197387695
+tempo inizio trial numero 79: 2024/08/20 19:55:02
+val_score = 0.3030303120613098, time = 11.280694007873535
+tempo inizio trial numero 80: 2024/08/20 19:55:13
+val_score = 0.3030303120613098, time = 11.246914625167847
+tempo inizio trial numero 81: 2024/08/20 19:55:24
+val_score = 0.3030303120613098, time = 9.961134910583496
+tempo inizio trial numero 82: 2024/08/20 19:55:34
+val_score = 0.3030303120613098, time = 9.387427568435669
+tempo inizio trial numero 83: 2024/08/20 19:55:44
+val_score = 0.3030303120613098, time = 18.48629093170166
+tempo inizio trial numero 84: 2024/08/20 19:56:02
+val_score = 0.3030303120613098, time = 13.996555089950562
+tempo inizio trial numero 85: 2024/08/20 19:56:16
+val_score = 0.3030303120613098, time = 9.71250057220459
+tempo inizio trial numero 86: 2024/08/20 19:56:26
+val_score = 0.3030303120613098, time = 9.347751379013062
+tempo inizio trial numero 87: 2024/08/20 19:56:35
+val_score = 0.21212121844291687, time = 9.151641130447388
+tempo inizio trial numero 88: 2024/08/20 19:56:44
+val_score = 0.3030303120613098, time = 18.457605838775635
+tempo inizio trial numero 89: 2024/08/20 19:57:03
+val_score = 0.3030303120613098, time = 18.13555932044983
+tempo inizio trial numero 90: 2024/08/20 19:57:21
+val_score = 0.21212121844291687, time = 11.293285846710205
+tempo inizio trial numero 91: 2024/08/20 19:57:32
+val_score = 0.3030303120613098, time = 18.52666425704956
+tempo inizio trial numero 92: 2024/08/20 19:57:51
+val_score = 0.3030303120613098, time = 11.363783836364746
+tempo inizio trial numero 93: 2024/08/20 19:58:02
+val_score = 0.3030303120613098, time = 9.139217615127563
+tempo inizio trial numero 94: 2024/08/20 19:58:11
+val_score = 0.3030303120613098, time = 14.775692462921143
+tempo inizio trial numero 95: 2024/08/20 19:58:26
+val_score = 0.27272728085517883, time = 9.202718257904053
+tempo inizio trial numero 96: 2024/08/20 19:58:35
+val_score = 0.3030303120613098, time = 18.279397010803223
+tempo inizio trial numero 97: 2024/08/20 19:58:54
+val_score = 0.3030303120613098, time = 18.436230182647705
+tempo inizio trial numero 98: 2024/08/20 19:59:12
+val_score = 0.3030303120613098, time = 9.815324544906616
+tempo inizio trial numero 99: 2024/08/20 19:59:22
+val_score = 0.3030303120613098, time = 11.25844693183899
+tempo inizio trial numero 100: 2024/08/20 19:59:33
+val_score = 0.3030303120613098, time = 9.197837591171265
+tempo inizio trial numero 101: 2024/08/20 19:59:42
+val_score = 0.27272728085517883, time = 9.138685703277588
+tempo inizio trial numero 102: 2024/08/20 19:59:51
+val_score = 0.3030303120613098, time = 9.796587944030762
+tempo inizio trial numero 103: 2024/08/20 20:00:01
+val_score = 0.3030303120613098, time = 9.91498064994812
+tempo inizio trial numero 104: 2024/08/20 20:00:11
+val_score = 0.3030303120613098, time = 17.925511121749878
+tempo inizio trial numero 105: 2024/08/20 20:00:29
+val_score = 0.3030303120613098, time = 9.058738470077515
+tempo inizio trial numero 106: 2024/08/20 20:00:38
+val_score = 0.3030303120613098, time = 9.134495735168457
+tempo inizio trial numero 107: 2024/08/20 20:00:47
+val_score = 0.3030303120613098, time = 18.580774307250977
+tempo inizio trial numero 108: 2024/08/20 20:01:06
+val_score = 0.21212121844291687, time = 9.997068881988525
+tempo inizio trial numero 109: 2024/08/20 20:01:16
+val_score = 0.21212121844291687, time = 18.325244426727295
+tempo inizio trial numero 110: 2024/08/20 20:01:34
+val_score = 0.3030303120613098, time = 13.65495753288269
+tempo inizio trial numero 111: 2024/08/20 20:01:48
+val_score = 0.3030303120613098, time = 9.247650623321533
+tempo inizio trial numero 112: 2024/08/20 20:01:57
+val_score = 0.3030303120613098, time = 12.978761434555054
+tempo inizio trial numero 113: 2024/08/20 20:02:10
+val_score = 0.3030303120613098, time = 11.375867128372192
+tempo inizio trial numero 114: 2024/08/20 20:02:21
+val_score = 0.3030303120613098, time = 18.408655166625977
+tempo inizio trial numero 115: 2024/08/20 20:02:40
+val_score = 0.3030303120613098, time = 18.33821439743042
+tempo inizio trial numero 116: 2024/08/20 20:02:58
+val_score = 0.21212121844291687, time = 8.784760236740112
+tempo inizio trial numero 117: 2024/08/20 20:03:07
+val_score = 0.3030303120613098, time = 9.740425825119019
+tempo inizio trial numero 118: 2024/08/20 20:03:17
+val_score = 0.3030303120613098, time = 17.532613515853882
+tempo inizio trial numero 119: 2024/08/20 20:03:34
+val_score = 0.3030303120613098, time = 18.301661491394043
+tempo inizio trial numero 120: 2024/08/20 20:03:52
+val_score = 0.3030303120613098, time = 9.932067632675171
+tempo inizio trial numero 121: 2024/08/20 20:04:02
+val_score = 0.27272728085517883, time = 10.436954736709595
+tempo inizio trial numero 122: 2024/08/20 20:04:13
+val_score = 0.3030303120613098, time = 18.12291932106018
+tempo inizio trial numero 123: 2024/08/20 20:04:31
+val_score = 0.3030303120613098, time = 13.51626992225647
+tempo inizio trial numero 124: 2024/08/20 20:04:44
+val_score = 0.3030303120613098, time = 11.078275442123413
+tempo inizio trial numero 125: 2024/08/20 20:04:56
+val_score = 0.27272728085517883, time = 8.979233980178833
+tempo inizio trial numero 126: 2024/08/20 20:05:05
+val_score = 0.3030303120613098, time = 10.907974004745483
+tempo inizio trial numero 127: 2024/08/20 20:05:15
+val_score = 0.3030303120613098, time = 11.26926875114441
+tempo inizio trial numero 128: 2024/08/20 20:05:27
+val_score = 0.3030303120613098, time = 18.134905099868774
+tempo inizio trial numero 129: 2024/08/20 20:05:45
+val_score = 0.3030303120613098, time = 9.057749032974243
+tempo inizio trial numero 130: 2024/08/20 20:05:54
+val_score = 0.3030303120613098, time = 18.211340188980103
+tempo inizio trial numero 131: 2024/08/20 20:06:12
+val_score = 0.3030303120613098, time = 13.560335636138916
+tempo inizio trial numero 132: 2024/08/20 20:06:26
+val_score = 0.3030303120613098, time = 11.268890619277954
+tempo inizio trial numero 133: 2024/08/20 20:06:37
+val_score = 0.3030303120613098, time = 18.05664825439453
+tempo inizio trial numero 134: 2024/08/20 20:06:55
+val_score = 0.3030303120613098, time = 20.964240312576294
+tempo inizio trial numero 135: 2024/08/20 20:07:16
+val_score = 0.3030303120613098, time = 13.639914274215698
+tempo inizio trial numero 136: 2024/08/20 20:07:30
+val_score = 0.3030303120613098, time = 9.879884481430054
+tempo inizio trial numero 137: 2024/08/20 20:07:39
+val_score = 0.3030303120613098, time = 9.932230472564697
+tempo inizio trial numero 138: 2024/08/20 20:07:49
+val_score = 0.27272728085517883, time = 8.182124614715576
+tempo inizio trial numero 139: 2024/08/20 20:07:58
+val_score = 0.3030303120613098, time = 9.234480142593384
+tempo inizio trial numero 140: 2024/08/20 20:08:07
+val_score = 0.3030303120613098, time = 12.879159927368164
+tempo inizio trial numero 141: 2024/08/20 20:08:20
+val_score = 0.21212121844291687, time = 10.992864847183228
+tempo inizio trial numero 142: 2024/08/20 20:08:31
+val_score = 0.3030303120613098, time = 10.633805513381958
+tempo inizio trial numero 143: 2024/08/20 20:08:41
+val_score = 0.3030303120613098, time = 11.132470846176147
+tempo inizio trial numero 144: 2024/08/20 20:08:52
+val_score = 0.3030303120613098, time = 18.323621034622192
+tempo inizio trial numero 145: 2024/08/20 20:09:11
+val_score = 0.27272728085517883, time = 9.949980735778809
+tempo inizio trial numero 146: 2024/08/20 20:09:21
+val_score = 0.3030303120613098, time = 11.26160740852356
+tempo inizio trial numero 147: 2024/08/20 20:09:32
+val_score = 0.21212121844291687, time = 9.321994543075562
+tempo inizio trial numero 148: 2024/08/20 20:09:41
+val_score = 0.3030303120613098, time = 10.975399494171143
+tempo inizio trial numero 149: 2024/08/20 20:09:52
+val_score = 0.3030303120613098, time = 13.469028234481812
+tempo inizio trial numero 150: 2024/08/20 20:10:06
+val_score = 0.3030303120613098, time = 17.64408779144287
+tempo inizio trial numero 151: 2024/08/20 20:10:23
+val_score = 0.27272728085517883, time = 9.098761081695557
+tempo inizio trial numero 152: 2024/08/20 20:10:33
+val_score = 0.3030303120613098, time = 10.044727087020874
+tempo inizio trial numero 153: 2024/08/20 20:10:43
+val_score = 0.3030303120613098, time = 13.146002054214478
+tempo inizio trial numero 154: 2024/08/20 20:10:56
+val_score = 0.3030303120613098, time = 10.989516496658325
+tempo inizio trial numero 155: 2024/08/20 20:11:07
+val_score = 0.3030303120613098, time = 9.83655071258545
+tempo inizio trial numero 156: 2024/08/20 20:11:17
+val_score = 0.3030303120613098, time = 11.008113384246826
+tempo inizio trial numero 157: 2024/08/20 20:11:28
+val_score = 0.3030303120613098, time = 10.053598880767822
+tempo inizio trial numero 158: 2024/08/20 20:11:38
+val_score = 0.3030303120613098, time = 9.607983350753784
+tempo inizio trial numero 159: 2024/08/20 20:11:47
+val_score = 0.3030303120613098, time = 9.236480951309204
+tempo inizio trial numero 160: 2024/08/20 20:11:56
+val_score = 0.3030303120613098, time = 16.81340718269348
+tempo inizio trial numero 161: 2024/08/20 20:12:13
+val_score = 0.3030303120613098, time = 9.954088926315308
+tempo inizio trial numero 162: 2024/08/20 20:12:23
+val_score = 0.3030303120613098, time = 18.37557029724121
+tempo inizio trial numero 163: 2024/08/20 20:12:42
+val_score = 0.3030303120613098, time = 18.494261980056763
+tempo inizio trial numero 164: 2024/08/20 20:13:00
+val_score = 0.3030303120613098, time = 9.878079414367676
+tempo inizio trial numero 165: 2024/08/20 20:13:10
+val_score = 0.3030303120613098, time = 11.141130447387695
+tempo inizio trial numero 166: 2024/08/20 20:13:21
+val_score = 0.3030303120613098, time = 18.2941415309906
+tempo inizio trial numero 167: 2024/08/20 20:13:39
+val_score = 0.3030303120613098, time = 10.112526893615723
+tempo inizio trial numero 168: 2024/08/20 20:13:50
+val_score = 0.3030303120613098, time = 11.402761220932007
+tempo inizio trial numero 169: 2024/08/20 20:14:01
+val_score = 0.21212121844291687, time = 10.170557737350464
+tempo inizio trial numero 170: 2024/08/20 20:14:11
+val_score = 0.3030303120613098, time = 13.766058683395386
+tempo inizio trial numero 171: 2024/08/20 20:14:25
+val_score = 0.3030303120613098, time = 11.412783861160278
+tempo inizio trial numero 172: 2024/08/20 20:14:36
+val_score = 0.3030303120613098, time = 10.118714094161987
+tempo inizio trial numero 173: 2024/08/20 20:14:46
+val_score = 0.21212121844291687, time = 9.320871353149414
+tempo inizio trial numero 174: 2024/08/20 20:14:56
+val_score = 0.27272728085517883, time = 9.11046552658081
+tempo inizio trial numero 175: 2024/08/20 20:15:05
+val_score = 0.3030303120613098, time = 11.111073970794678
+tempo inizio trial numero 176: 2024/08/20 20:15:16
+val_score = 0.3030303120613098, time = 9.23714303970337
+tempo inizio trial numero 177: 2024/08/20 20:15:25
+val_score = 0.3030303120613098, time = 11.739570379257202
+tempo inizio trial numero 178: 2024/08/20 20:15:37
+val_score = 0.27272728085517883, time = 9.18796420097351
+tempo inizio trial numero 179: 2024/08/20 20:15:46
+val_score = 0.27272728085517883, time = 9.327814102172852
+tempo inizio trial numero 180: 2024/08/20 20:15:55
+val_score = 0.3030303120613098, time = 13.485898971557617
+tempo inizio trial numero 181: 2024/08/20 20:16:09
+val_score = 0.3030303120613098, time = 8.812111854553223
+tempo inizio trial numero 182: 2024/08/20 20:16:18
+val_score = 0.27272728085517883, time = 9.885329484939575
+tempo inizio trial numero 183: 2024/08/20 20:16:28
+val_score = 0.3030303120613098, time = 15.381518125534058
+tempo inizio trial numero 184: 2024/08/20 20:16:43
+val_score = 0.3030303120613098, time = 9.52787160873413
+tempo inizio trial numero 185: 2024/08/20 20:16:53
+val_score = 0.3030303120613098, time = 11.27988076210022
+tempo inizio trial numero 186: 2024/08/20 20:17:04
+val_score = 0.3030303120613098, time = 10.070470809936523
+tempo inizio trial numero 187: 2024/08/20 20:17:14
+val_score = 0.3030303120613098, time = 11.302691459655762
+tempo inizio trial numero 188: 2024/08/20 20:17:25
+val_score = 0.3030303120613098, time = 9.472886323928833
+tempo inizio trial numero 189: 2024/08/20 20:17:35
+val_score = 0.3030303120613098, time = 11.437001943588257
+tempo inizio trial numero 190: 2024/08/20 20:17:46
+val_score = 0.3030303120613098, time = 13.246357202529907
+tempo inizio trial numero 191: 2024/08/20 20:17:59
+val_score = 0.3030303120613098, time = 10.074848175048828
+tempo inizio trial numero 192: 2024/08/20 20:18:09
+val_score = 0.3030303120613098, time = 11.696252584457397
+tempo inizio trial numero 193: 2024/08/20 20:18:21
+val_score = 0.3030303120613098, time = 18.78598976135254
+tempo inizio trial numero 194: 2024/08/20 20:18:40
+val_score = 0.3030303120613098, time = 18.916174173355103
+tempo inizio trial numero 195: 2024/08/20 20:18:59
+val_score = 0.3030303120613098, time = 11.511291027069092
+tempo inizio trial numero 196: 2024/08/20 20:19:10
+val_score = 0.27272728085517883, time = 13.803515672683716
+tempo inizio trial numero 197: 2024/08/20 20:19:24
+val_score = 0.3030303120613098, time = 9.402658224105835
+tempo inizio trial numero 198: 2024/08/20 20:19:34
+val_score = 0.3030303120613098, time = 9.408692359924316
+tempo inizio trial numero 199: 2024/08/20 20:19:43
+val_score = 0.3030303120613098, time = 12.020467281341553
+tempo inizio trial numero 200: 2024/08/20 20:19:55
+val_score = 0.27272728085517883, time = 11.322988033294678
+tempo inizio trial numero 201: 2024/08/20 20:20:06
+val_score = 0.3030303120613098, time = 11.396740436553955
+tempo inizio trial numero 202: 2024/08/20 20:20:18
+val_score = 0.27272728085517883, time = 18.113571643829346
+tempo inizio trial numero 203: 2024/08/20 20:20:36
+val_score = 0.3030303120613098, time = 7.91585898399353
+tempo inizio trial numero 204: 2024/08/20 20:20:44
+val_score = 0.3030303120613098, time = 14.709929943084717
+tempo inizio trial numero 205: 2024/08/20 20:20:58
+val_score = 0.3030303120613098, time = 12.417980432510376
+tempo inizio trial numero 206: 2024/08/20 20:21:11
+val_score = 0.3030303120613098, time = 9.977851390838623
+tempo inizio trial numero 207: 2024/08/20 20:21:21
+val_score = 0.21212121844291687, time = 13.809626340866089
+tempo inizio trial numero 208: 2024/08/20 20:21:35
+val_score = 0.3030303120613098, time = 19.240796327590942
+tempo inizio trial numero 209: 2024/08/20 20:21:54
+val_score = 0.3030303120613098, time = 11.114232540130615
+tempo inizio trial numero 210: 2024/08/20 20:22:05
+val_score = 0.3030303120613098, time = 10.03408670425415
+tempo inizio trial numero 211: 2024/08/20 20:22:15
+val_score = 0.21212121844291687, time = 11.270297765731812
+tempo inizio trial numero 212: 2024/08/20 20:22:26
+val_score = 0.3030303120613098, time = 13.68097996711731
+tempo inizio trial numero 213: 2024/08/20 20:22:40
+val_score = 0.3030303120613098, time = 13.719066143035889
+tempo inizio trial numero 214: 2024/08/20 20:22:54
+val_score = 0.3030303120613098, time = 18.44528579711914
+tempo inizio trial numero 215: 2024/08/20 20:23:12
+val_score = 0.3030303120613098, time = 11.31612515449524
+tempo inizio trial numero 216: 2024/08/20 20:23:23
+val_score = 0.3030303120613098, time = 9.134838104248047
+tempo inizio trial numero 217: 2024/08/20 20:23:33
+val_score = 0.3030303120613098, time = 10.184581279754639
+tempo inizio trial numero 218: 2024/08/20 20:23:43
+val_score = 0.3030303120613098, time = 18.576070547103882
+tempo inizio trial numero 219: 2024/08/20 20:24:01
+val_score = 0.3030303120613098, time = 14.010392427444458
+tempo inizio trial numero 220: 2024/08/20 20:24:15
+val_score = 0.3030303120613098, time = 10.31595754623413
+tempo inizio trial numero 221: 2024/08/20 20:24:26
+val_score = 0.3030303120613098, time = 12.39023208618164
+tempo inizio trial numero 222: 2024/08/20 20:24:38
+val_score = 0.3030303120613098, time = 9.963313817977905
+tempo inizio trial numero 223: 2024/08/20 20:24:48
+val_score = 0.21212121844291687, time = 8.939823627471924
+tempo inizio trial numero 224: 2024/08/20 20:24:57
+val_score = 0.3030303120613098, time = 9.195379257202148
+tempo inizio trial numero 225: 2024/08/20 20:25:06
+val_score = 0.27272728085517883, time = 14.415960788726807
+tempo inizio trial numero 226: 2024/08/20 20:25:21
+val_score = 0.3030303120613098, time = 9.284197092056274
+tempo inizio trial numero 227: 2024/08/20 20:25:30
+val_score = 0.27272728085517883, time = 11.247318029403687
+tempo inizio trial numero 228: 2024/08/20 20:25:41
+val_score = 0.3030303120613098, time = 11.319521188735962
+tempo inizio trial numero 229: 2024/08/20 20:25:52
+val_score = 0.3030303120613098, time = 13.395854473114014
+tempo inizio trial numero 230: 2024/08/20 20:26:06
+val_score = 0.3030303120613098, time = 8.997798442840576
+tempo inizio trial numero 231: 2024/08/20 20:26:15
+val_score = 0.3030303120613098, time = 15.75831913948059
+tempo inizio trial numero 232: 2024/08/20 20:26:31
+val_score = 0.3030303120613098, time = 9.349668741226196
+tempo inizio trial numero 233: 2024/08/20 20:26:40
+val_score = 0.27272728085517883, time = 9.848657131195068
+tempo inizio trial numero 234: 2024/08/20 20:26:50
+val_score = 0.3030303120613098, time = 10.55631947517395
+tempo inizio trial numero 235: 2024/08/20 20:27:00
+val_score = 0.3030303120613098, time = 10.546716690063477
+tempo inizio trial numero 236: 2024/08/20 20:27:11
+val_score = 0.3030303120613098, time = 9.559065580368042
+tempo inizio trial numero 237: 2024/08/20 20:27:20
+val_score = 0.27272728085517883, time = 10.085668563842773
+tempo inizio trial numero 238: 2024/08/20 20:27:31
+val_score = 0.3030303120613098, time = 18.670970916748047
+tempo inizio trial numero 239: 2024/08/20 20:27:49
+val_score = 0.3030303120613098, time = 10.21114706993103
+tempo inizio trial numero 240: 2024/08/20 20:27:59
+val_score = 0.3030303120613098, time = 13.791574239730835
+tempo inizio trial numero 241: 2024/08/20 20:28:13
+val_score = 0.3030303120613098, time = 9.939696550369263
+tempo inizio trial numero 242: 2024/08/20 20:28:23
+val_score = 0.3030303120613098, time = 11.365656852722168
+tempo inizio trial numero 243: 2024/08/20 20:28:34
+val_score = 0.3030303120613098, time = 13.953320980072021
+tempo inizio trial numero 244: 2024/08/20 20:28:48
+val_score = 0.21212121844291687, time = 9.285382270812988
+tempo inizio trial numero 245: 2024/08/20 20:28:58
+val_score = 0.3030303120613098, time = 10.122682332992554
+tempo inizio trial numero 246: 2024/08/20 20:29:08
+val_score = 0.3030303120613098, time = 11.429961204528809
+tempo inizio trial numero 247: 2024/08/20 20:29:19
+val_score = 0.27272728085517883, time = 9.165680885314941
+tempo inizio trial numero 248: 2024/08/20 20:29:28
+val_score = 0.3030303120613098, time = 11.436077356338501
+tempo inizio trial numero 249: 2024/08/20 20:29:40
+val_score = 0.27272728085517883, time = 10.017587900161743
+Model selection completed
+best_units_m = 50
+best_units_gru = 30
+best_lr = 0.1
+best_patience = 20
+best_num_epochs = 50
+best_batch_size = 128
+best_batch_size_gru = 128
+best_leaky = 0.1
+best_memory_scaling = 0.5
+best_input_scaling = 1.0
+best_bias_scaling = 1.0
+best_spectral_radius = 1.0
+best_leaky_m = 0.1
+best_input_scaling_m = 0.1
+best_spectral_radius_m = 1.0
+best_bias_scaling_m = 1.0
+best_val_score = 0.3030303120613098
+best_time = 13.292245149612427

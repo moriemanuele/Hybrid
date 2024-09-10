@@ -1,0 +1,9 @@
+Sono Hybrid_FordA_7595_35_35_1, pid 15961
+tempo inizio tentativo numero 0: 2024/07/31 11:19:30
+tempo inizio trial numero 0: 2024/07/31 11:19:30
+val_score = 0.9567000269889832, time = 6186.932467460632
+tempo inizio tentativo numero 1: 2024/07/31 13:02:37
+tempo inizio trial numero 1: 2024/07/31 13:02:37
+val_score = 0.961899995803833, time = 6087.633702516556
+tempo inizio tentativo numero 2: 2024/07/31 14:44:04
+tempo inizio trial numero 2: 2024/07/31 14:44:04

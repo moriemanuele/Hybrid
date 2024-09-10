@@ -1,0 +1,40 @@
+Sono Hybrid_sMNIST_15350_50_50_15, pid 83549
+tempo inizio trial numero 0: 2024/07/28 03:34:43
+best_units_m = 50
+best_units_gru = 50
+best_lr = 0.1
+best_patience = 10
+best_num_epochs = 25
+best_batch_size = 128
+best_batch_size_gru = 256
+best_leaky = 0.1
+best_memory_scaling = 1.0
+best_input_scaling = 1.0
+best_bias_scaling = 0.1
+best_spectral_radius = 0.9
+best_leaky_m = 0.01
+best_input_scaling_m = 1.0
+best_spectral_radius_m = 0.9
+best_bias_scaling_m = 1.0
+best_val_score = 0.11232323199510574
+best_time = 4992.324803352356 seconds
+tempo inizio trial numero 1: 2024/07/28 04:57:55
+Model selection completed
+best_units_m = 50
+best_units_gru = 50
+best_lr = 0.1
+best_patience = 10
+best_num_epochs = 25
+best_batch_size = 128
+best_batch_size_gru = 256
+best_leaky = 0.1
+best_memory_scaling = 1.0
+best_input_scaling = 1.0
+best_bias_scaling = 0.1
+best_spectral_radius = 0.9
+best_leaky_m = 0.01
+best_input_scaling_m = 1.0
+best_spectral_radius_m = 0.9
+best_bias_scaling_m = 1.0
+best_val_score = 0.11232323199510574
+best_time = 4992.324803352356

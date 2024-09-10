@@ -1,0 +1,5 @@
+Sono Hybrid_Trace_3_2, pid 60862
+tempo inizio trial numero 0: 2024/08/26 17:24:54
+Accuracy sul validation set: 0.27
+Accuracy finale su training set: 0.25
+Accuracy finale su validation set: 0.27

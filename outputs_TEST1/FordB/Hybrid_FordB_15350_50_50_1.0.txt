@@ -1,0 +1,6 @@
+Sono Hybrid_FordB_15350_50_50_1.0, pid 27693
+tempo inizio tentativo numero 0: 2024/08/01 10:14:01
+tempo inizio trial numero 0: 2024/08/01 10:14:01
+val_score = 0.9787999987602234, time = 6952.2406141757965
+--- ACCURACY: MEAN = 0.9787999987602234, STD = 0.0
+--- TIME SPENT: MEAN = 6952.237717151642, STD = 0.0

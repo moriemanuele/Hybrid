@@ -1,0 +1,6 @@
+Sono Hybrid_FordB_2845_25_20_0.0, pid 82266
+tempo inizio tentativo numero 0: 2024/07/31 22:38:13
+tempo inizio trial numero 0: 2024/07/31 22:38:13
+val_score = 0.9592999815940857, time = 6364.026664972305
+--- ACCURACY: MEAN = 0.9592999815940857, STD = 0.0
+--- TIME SPENT: MEAN = 6364.0237464904785, STD = 0.0

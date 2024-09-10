@@ -1,0 +1,6 @@
+Sono Hybrid_FordA_15350_50_50_1.0, pid 89350
+tempo inizio tentativo numero 0: 2024/07/31 19:29:10
+tempo inizio trial numero 0: 2024/07/31 19:29:10
+val_score = 0.9211999773979187, time = 5839.331944227219
+--- ACCURACY: MEAN = 0.9211999773979187, STD = 0.0
+--- TIME SPENT: MEAN = 5839.32889175415, STD = 0.0

@@ -1,0 +1,48 @@
+Sono Hybrid_sMNIST_7595_35_35_1, pid 4297
+tempo inizio trial numero 0: 2024/07/26 09:47:34
+best_units_m = 35
+best_units_gru = 35
+best_lr = 0.01
+best_patience = 30
+best_num_epochs = 50
+best_batch_size = 128
+best_batch_size_gru = 512
+best_leaky = 1
+best_memory_scaling = 1.0
+best_input_scaling = 0.5
+best_bias_scaling = 0.5
+best_spectral_radius = 0.9
+best_leaky_m = 1
+best_input_scaling_m = 1.0
+best_spectral_radius_m = 0.8
+best_bias_scaling_m = 0.5
+best_val_score = 0.9576767683029175
+best_time = 5131.050529241562 seconds
+tempo inizio trial numero 1: 2024/07/26 11:13:05
+val_score = 0.09873737394809723, time = 5566.493435382843
+tempo inizio trial numero 2: 2024/07/26 12:45:52
+val_score = 0.35131314396858215, time = 5113.213569164276
+tempo inizio trial numero 3: 2024/07/26 14:11:05
+val_score = 0.11242423951625824, time = 5539.887021303177
+tempo inizio trial numero 4: 2024/07/26 15:43:25
+val_score = 0.5570707321166992, time = 6413.100675821304
+tempo inizio trial numero 5: 2024/07/26 17:30:18
+Model selection completed
+best_units_m = 35
+best_units_gru = 35
+best_lr = 0.01
+best_patience = 30
+best_num_epochs = 50
+best_batch_size = 128
+best_batch_size_gru = 512
+best_leaky = 1
+best_memory_scaling = 1.0
+best_input_scaling = 0.5
+best_bias_scaling = 0.5
+best_spectral_radius = 0.9
+best_leaky_m = 1
+best_input_scaling_m = 1.0
+best_spectral_radius_m = 0.8
+best_bias_scaling_m = 0.5
+best_val_score = 0.9576767683029175
+best_time = 5131.050529241562

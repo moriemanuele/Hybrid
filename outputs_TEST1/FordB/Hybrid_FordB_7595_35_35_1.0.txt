@@ -1,0 +1,6 @@
+Sono Hybrid_FordB_7595_35_35_1.0, pid 76442
+tempo inizio tentativo numero 0: 2024/08/01 05:27:28
+tempo inizio trial numero 0: 2024/08/01 05:27:28
+val_score = 0.7928000092506409, time = 4909.075801372528
+--- ACCURACY: MEAN = 0.7928000092506409, STD = 0.0
+--- TIME SPENT: MEAN = 4909.072296857834, STD = 0.0

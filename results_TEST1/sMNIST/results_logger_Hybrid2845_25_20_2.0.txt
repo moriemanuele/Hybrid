@@ -1,0 +1,3 @@
+Experiment with Hybrid on dataset sMNIST2845_25_20_2.0 starting now
+** local time = 2024/08/01 17:32:19
+--- ACCURACY: MEAN = 0.9617000222206116, STD = 0.0--- TIME SPENT: MEAN = 5353.449380397797, STD = 0.0

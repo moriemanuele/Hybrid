@@ -1,0 +1,2 @@
+Experiment with Hybrid on dataset FordA7595_35_35_1 starting now
+** local time = 2024/07/31 11:19:26

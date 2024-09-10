@@ -1,0 +1,19 @@
+Sono Hybrid_Wine_8_4, pid 85532
+tempo inizio trial numero 0: 2024/09/08 18:56:05
+Accuracy sul test set: 0.50
+Accuracy finale su training set: 0.53
+Accuracy finale su test set: 0.50
+val_score = 0.5, time = 14.521202564239502
+tempo inizio trial numero 1: 2024/09/08 18:56:20
+Accuracy sul test set: 0.50
+Accuracy finale su training set: 0.47
+Accuracy finale su test set: 0.50
+val_score = 0.5, time = 13.704020261764526
+tempo inizio trial numero 2: 2024/09/08 18:56:33
+Accuracy sul test set: 0.50
+Accuracy finale su training set: 0.53
+Accuracy finale su test set: 0.50
+val_score = 0.5, time = 12.499613523483276
+--Hybrid on Wine--
+Results: MEAN 0.5 STD 0.0
+----- required time: MEAN 13.574945449829102 STD 0.8303416135276465

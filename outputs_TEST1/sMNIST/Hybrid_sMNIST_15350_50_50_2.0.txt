@@ -1,0 +1,6 @@
+Sono Hybrid_sMNIST_15350_50_50_2.0, pid 59318
+tempo inizio tentativo numero 0: 2024/08/02 02:07:59
+tempo inizio trial numero 0: 2024/08/02 02:07:59
+val_score = 0.9760000109672546, time = 5998.837851285934
+--- ACCURACY: MEAN = 0.9760000109672546, STD = 0.0
+--- TIME SPENT: MEAN = 5998.834896564484, STD = 0.0

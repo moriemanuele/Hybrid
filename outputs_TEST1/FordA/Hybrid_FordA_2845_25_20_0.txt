@@ -1,0 +1,10 @@
+Sono Hybrid_FordA_2845_25_20_0, pid 138163
+tempo inizio tentativo numero 0: 2024/07/31 02:26:25
+tempo inizio trial numero 0: 2024/07/31 02:26:25
+val_score = 0.9138000011444092, time = 6102.56036734581
+tempo inizio tentativo numero 1: 2024/07/31 04:08:08
+tempo inizio trial numero 1: 2024/07/31 04:08:08
+val_score = 0.8658000230789185, time = 5845.370281457901
+tempo inizio tentativo numero 2: 2024/07/31 05:45:33
+tempo inizio trial numero 2: 2024/07/31 05:45:33
+val_score = 0.89799999743700027, time = 6067.201369762421

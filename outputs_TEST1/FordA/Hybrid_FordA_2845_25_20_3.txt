@@ -1,0 +1,3 @@
+Sono Hybrid_FordA_2845_25_20_3, pid 3762
+tempo inizio tentativo numero 0: 2024/07/31 00:55:09
+tempo inizio trial numero 0: 2024/07/31 00:55:09

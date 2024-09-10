@@ -1,0 +1,2 @@
+Experiment with Hybrid on dataset psMNIST15350_50_50_16 starting now
+** local time = 2024/07/27 12:53:42

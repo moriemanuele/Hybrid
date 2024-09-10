@@ -1,0 +1,6 @@
+Sono Hybrid_psMNIST_2845_25_20_0.0, pid 12731
+tempo inizio tentativo numero 0: 2024/07/31 23:13:04
+tempo inizio trial numero 0: 2024/07/31 23:13:04
+val_score = 0.7996000051498413, time = 5187.804353713989
+--- ACCURACY: MEAN = 0.7996000051498413, STD = 0.0
+--- TIME SPENT: MEAN = 5187.801160335541, STD = 0.0

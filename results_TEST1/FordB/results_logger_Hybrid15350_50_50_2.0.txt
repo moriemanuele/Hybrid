@@ -1,0 +1,3 @@
+Experiment with Hybrid on dataset FordB15350_50_50_2.0 starting now
+** local time = 2024/08/01 12:10:03
+--- ACCURACY: MEAN = 0.9797999858856201, STD = 0.0--- TIME SPENT: MEAN = 6329.417949676514, STD = 0.0

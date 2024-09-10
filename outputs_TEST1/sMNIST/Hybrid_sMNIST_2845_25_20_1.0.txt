@@ -1,0 +1,6 @@
+Sono Hybrid_sMNIST_2845_25_20_1.0, pid 35749
+tempo inizio tentativo numero 0: 2024/08/01 15:55:14
+tempo inizio trial numero 0: 2024/08/01 15:55:14
+val_score = 0.9417999982833862, time = 5816.183215379715
+--- ACCURACY: MEAN = 0.9417999982833862, STD = 0.0
+--- TIME SPENT: MEAN = 5816.180201768875, STD = 0.0

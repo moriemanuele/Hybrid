@@ -1,0 +1,2 @@
+Experiment with Hybrid on dataset Beef3_2 starting now
+** local time = 2024/08/28 21:59:05

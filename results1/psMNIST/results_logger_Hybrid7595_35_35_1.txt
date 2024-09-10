@@ -1,0 +1,3 @@
+Experiment with Hybrid on dataset psMNIST7595_35_35_1 starting now
+** local time = 2024/07/26 13:01:14
+--> terminating the model selection for exceeding max time after 6 configurations.
